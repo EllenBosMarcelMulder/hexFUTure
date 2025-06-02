@@ -1,4 +1,4 @@
-### hexFUTure: Literatuur en nronverwijzingen
+### hexFUTure: Literatuur en bronverwijzingen
 
 Deze tekst is geen opinie, geen propaganda, geen partijverklaring.  
 De spiegel die ik ophoud, weerkaatst geen oordeel – slechts structuur.
@@ -76,4 +76,4 @@ De literatuurstudie biedt een solide wetenschappelijke basis voor **hexFUTure**.
 ## 🔏 STRUCTUUR-VERIFICATIE
 
 **SHA256-hash van dit document tot en met de laatste --- hieronder:**  
----acb2bd0d9d4c742082b95eec7ee4e233f0f1487fba61b545c39764b65428039c
+---d8b95b39939e845eba8092cbf17ecf662563bda285d0e9fc4c90ee8b329aacdb
