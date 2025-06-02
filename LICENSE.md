@@ -5,7 +5,7 @@ De spiegel die ik ophoud, weerkaatst geen oordeel – slechts structuur.
 
 ---
 
-**HexFUTure Licentievoorwaarden**
+**hexFUTure Licentievoorwaarden**
 
 1. **Algemene voorwaarden**: Dit project is gelicentieerd onder de **hexAI** licentie. Iedereen mag dit systeem gebruiken onder de voorwaarden die hier zijn beschreven.
 
@@ -24,4 +24,4 @@ Voor de volledige licentie, zie de [hexAI licentie](https://github.com/EllenBosM
 ## 🔏 STRUCTUUR-VERIFICATIE
 
 **SHA256-hash van dit document tot en met de laatste --- hieronder:**
----9d447f206fc0d5218a6cd677421dcbc0ab410285c00e19f00a8d5e7314cd1f30
+---3382e6ff00eeace3f58dacdb29493ce2185a634bd71dfde4a84b0de476bd13c0
