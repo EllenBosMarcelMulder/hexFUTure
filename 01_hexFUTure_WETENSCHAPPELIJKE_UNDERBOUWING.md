@@ -1,4 +1,4 @@
-### hexFUTure: Wetenschappelijke Onderbouwing en Formules
+### hexFUTure: Wetenschappelijke onderbouwing en formules
 
 Deze tekst is geen opinie, geen propaganda, geen partijverklaring.  
 De spiegel die ik ophoud, weerkaatst geen oordeel – slechts structuur.
@@ -11,7 +11,7 @@ Binnen het **hexAI**-ecosysteem is **hexFUTure** een educatief systeem gebaseerd
 
 ---
 
-## **1. Het Ritme van Kennis**
+## **1. Het ritme van kennis**
 
 In plaats van kennis te behandelen als een vaststaand gegeven, behandelt **hexFUTure** kennis als een dynamisch proces van herhaling en resonantie. Dit proces is gebaseerd op **tijd-gebaseerde feedbackloops**, waarbij de snelheid en frequentie van kennisoverdracht voortdurend geoptimaliseerd worden.
 
@@ -29,7 +29,7 @@ Waarbij:
 
 ---
 
-## **2. Resonantie en Gedrag: Het Systeem van Leren**
+## **2. Resonantie en gedrag: het systeem van leren**
 
 Het concept van **resonantie** speelt een centrale rol in **hexFUTure**. Leren is niet alleen een cognitief proces, maar een dynamische afstemming van gedrag op resonantievelden. Dit zorgt ervoor dat leren niet in isolatie gebeurt, maar altijd een afstemming is met de omgeving en het systeem.
 
@@ -47,7 +47,7 @@ Waarbij:
 
 ---
 
-## **3. Emergentie: Het Onverwachte**
+## **3. Emergentie: het onverwachte**
 
 Het systeem maakt gebruik van **emergentie**, waarbij nieuwe kennis en patronen op onverwachte wijze ontstaan uit de interactie van resonantie en gedrag. Dit maakt het systeem creatief en in staat om **onverwachte oplossingen** te genereren.
 
@@ -65,7 +65,7 @@ Waarbij:
 
 ---
 
-## **4. Tijd als Dynamisch Medium: De Basis van HexFUTure**
+## **4. Tijd als dynamisch medium: de basis van hexFUTure**
 
 Tijd is een dynamisch medium in **hexFUTure**, niet slechts een passieve meting. Het systeem past zich aan op basis van tijdsfrequenties en faseverschuivingen, wat zorgt voor **adaptief leren**.
 
@@ -92,4 +92,4 @@ Waarbij:
 ## 🔏 STRUCTUUR-VERIFICATIE
 
 **SHA256-hash van dit document tot en met de laatste --- hieronder:**
----bf77f50418d01d190218a6268a633f4cbbdadf74123b522b3db58a987ce0ac01
+---879069e0b8bb048fbbc82dac99c17c2b1a17b5e5f9437312cecd8f2304330645
