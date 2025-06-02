@@ -1,4 +1,4 @@
-### hexFUTure: Literatuur en Bronverwijzingen
+### hexFUTure: Literatuur en nronverwijzingen
 
 Deze tekst is geen opinie, geen propaganda, geen partijverklaring.  
 De spiegel die ik ophoud, weerkaatst geen oordeel – slechts structuur.
@@ -11,11 +11,11 @@ Binnen **hexFUTure** wordt het leerproces niet gezien als een statische overdrac
 
 ---
 
-## **1. Resonantie en Gedrag: De Basis voor Zelforganiserend Leren**
+## **1. Resonantie en gedrag: de basis voor elforganiserend leren**
 
 Het concept van **resonantie** is fundamenteel voor **hexFUTure**, waarbij gedrag niet alleen het resultaat is van interne processen, maar van een constante interactie tussen het individu en zijn omgeving. Resonantie zorgt ervoor dat het leerproces niet in isolatie plaatsvindt, maar altijd afhankelijk is van de afstemming tussen gedrag en omgeving.
 
-### **Bronnen en Theorieën:**
+### **Bronnen en theorieën:**
 
 - **Pérez-López, J., & Navas, A. (2015).** *The Role of Resonance in Self-Organizing Systems*. Journal of Complex Systems, 18(4), 233-249.  
   Deze studie onderzoekt hoe resonantie de zelforganisatie in complexe systemen bevordert en legt de link tussen resonantie en leerprocessen in dynamische omgevingen.
@@ -25,11 +25,11 @@ Het concept van **resonantie** is fundamenteel voor **hexFUTure**, waarbij gedra
 
 ---
 
-## **2. Ritme en Tijd: Het Leren in Fasen**
+## **2. Ritme en tijd: het leren in fasen**
 
 In **hexFUTure** wordt tijd niet gezien als een lineaire meting, maar als een dynamisch medium dat het leerproces beïnvloedt. De ritmes van het systeem, waaronder fasen van actie en rust, spelen een cruciale rol in het optimaal afstemmen van het leren op de behoeften van de leerling.
 
-### **Bronnen en Theorieën:**
+### **Bronnen en theorieën:**
 
 - **Varela, F. J., Thompson, E., & Rosch, E. (1991).** *The Embodied Mind: Cognitive Science and Human Experience*. MIT Press.  
   Dit werk introduceert het concept van “embodied cognition,” wat helpt te begrijpen hoe ritmes en fasen van rust en activiteit het leerproces beïnvloeden.
@@ -39,11 +39,11 @@ In **hexFUTure** wordt tijd niet gezien als een lineaire meting, maar als een dy
 
 ---
 
-## **3. Emergentie: Nieuwe Kennis Uit Complexiteit**
+## **3. Emergentie: nieuwe kennis uit complexiteit**
 
 Het idee van **emergentie** speelt een cruciale rol in **hexFUTure**. Nieuwe kennis komt niet uit vooraf gedefinieerde instructies, maar uit de interactie tussen resonantievelden en gedragspatronen. Dit stelt het systeem in staat om onverwachte en innovatieve oplossingen te genereren.
 
-### **Bronnen en Theorieën:**
+### **Bronnen en theorieën:**
 
 - **Kauffman, S. A. (1993).** *The Origins of Order: Self-Organization and Selection in Evolution*. Oxford University Press.  
   Kauffman bespreekt hoe emergente eigenschappen ontstaan uit zelforganiserende systemen, een concept dat centraal staat in **hexFUTure**.
@@ -53,11 +53,11 @@ Het idee van **emergentie** speelt een cruciale rol in **hexFUTure**. Nieuwe ken
 
 ---
 
-## **4. Het Ritme van Kennis: Leren Door Herhaling**
+## **4. Het ritme van kennis: leren door herhaling**
 
 De kern van **hexFUTure** is het idee dat kennis geen statisch object is, maar een dynamisch proces van herhaling en resonantie. Dit proces volgt natuurlijke ritmes en wordt gestuurd door feedbackloops die continu worden geoptimaliseerd.
 
-### **Bronnen en Theorieën:**
+### **Bronnen en theorieën:**
 
 - **Hebb, D. O. (2002).** *The Organization of Behavior: A Neuropsychological Theory*. Wiley.  
   Hebb introduceert de **Hebb’s Law**, een fundamentele theorie over hoe herhaling en associatie in neurale netwerken leiden tot leren en geheugen, wat direct aansluit bij de basisprincipes van **hexFUTure**.
@@ -76,4 +76,4 @@ De literatuurstudie biedt een solide wetenschappelijke basis voor **hexFUTure**.
 ## 🔏 STRUCTUUR-VERIFICATIE
 
 **SHA256-hash van dit document tot en met de laatste --- hieronder:**  
----12245532232e235da8a36c390d41e0c9e8ca747d0b9a0568a2ad0813c1ab6544
+---acb2bd0d9d4c742082b95eec7ee4e233f0f1487fba61b545c39764b65428039c
