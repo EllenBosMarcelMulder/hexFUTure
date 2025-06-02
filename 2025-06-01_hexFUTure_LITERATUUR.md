@@ -11,7 +11,7 @@ Binnen **hexFUTure** wordt het leerproces niet gezien als een statische overdrac
 
 ---
 
-## **1. Resonantie en gedrag: de basis voor elforganiserend leren**
+## **1. Resonantie en gedrag: de basis voor zelforganiserend leren**
 
 Het concept van **resonantie** is fundamenteel voor **hexFUTure**, waarbij gedrag niet alleen het resultaat is van interne processen, maar van een constante interactie tussen het individu en zijn omgeving. Resonantie zorgt ervoor dat het leerproces niet in isolatie plaatsvindt, maar altijd afhankelijk is van de afstemming tussen gedrag en omgeving.
 
@@ -76,4 +76,4 @@ De literatuurstudie biedt een solide wetenschappelijke basis voor **hexFUTure**.
 ## 🔏 STRUCTUUR-VERIFICATIE
 
 **SHA256-hash van dit document tot en met de laatste --- hieronder:**  
----d8b95b39939e845eba8092cbf17ecf662563bda285d0e9fc4c90ee8b329aacdb
+---061843e50961ccab14028a7e94b802900cc8dc48bc81f2b385d50056c70ac4a1
