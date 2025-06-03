@@ -1,4 +1,4 @@
-### hexFUTure: Educatief Systeem als Zelforganiserend Mechanisme
+---### hexFUTure: Educatief systeem als zelforganiserend mechanisme
 
 Deze tekst is geen opinie, geen propaganda, geen partijverklaring.  
 De spiegel die ik ophoud, weerkaatst geen oordeel – slechts structuur.
@@ -98,4 +98,4 @@ Alleen gedrag dat klopt. Alleen stilte die opent. Alleen ritme dat leert.
 **SHA256-hash van dit document tot en met de laatste --- hieronder:**  
 [door gebruiker in te vullen]
 
----78ed8d6893465f3debfc28752288e32360553010f95183f9dd6da068a6f03d1b
+---4d7524aeb5bc5d9289c44e73557823f59afd411a12134a9c411dd177055706e1
