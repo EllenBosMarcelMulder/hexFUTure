@@ -6,7 +6,7 @@ hexFUTure is het onderdeel van het hexAI-ecosysteem dat gericht is op de toekoms
 
 hexFUTure is een dynamisch systeem dat zich aanpast aan de resonantie en het ritme van de gebruikers. Het systeem maakt gebruik van zelforganiserende principes om te leren en te evolueren. Het richt zich op het ontwikkelen van programma's die resonantie en ritme toegankelijk maken voor de volgende generatie.
 
-## Toekomstige Documenten en Bestanden
+## Toekomstige documenten en bestanden
 
 - [Overzicht hexFUTure](overview_hexFUTure.md): Introductie tot de visie en toekomst van hexFUTure.
 - [Roadmap hexFUTure](future_roadmap.md): De plannen en toekomstige ontwikkelingen van hexFUTure.
@@ -20,4 +20,4 @@ hexFUTure is een dynamisch systeem dat zich aanpast aan de resonantie en het rit
 
 ## 🔏 STRUCTUUR-VERIFICATIE
 **SHA256-hash van dit document tot en met de laatste --- hieronder:**
----6f5c7d7c29d21cd65d651e23b5dcceb2615e2c6d03e501bb77309c5a49ab0d78
+---8916d24b22b29a8bc8da14e8bd9eaf04bcee91d2996b35750dc3fe743403cc52
