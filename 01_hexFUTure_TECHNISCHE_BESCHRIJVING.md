@@ -1,4 +1,4 @@
-## Inleiding
+### Inleiding
 
 **hexFUTure** is een zelforganiserend en dynamisch leerplatform dat is gebaseerd op resonantie, ritme en feedbackloops. Het systeem maakt gebruik van tijdsgebaseerde processen en emergentie om een continu evoluerend leerproces te creëren, dat wordt aangestoken door de interactie tussen het individu en het systeem.
 
@@ -11,7 +11,7 @@ De architectuur van **hexFUTure** bestaat uit meerdere lagen die met elkaar inte
 ### Lagen:
 1. **Resonantieveld**: Het fundament van het systeem, dat alle interacties regelt en afstemt op de gebruiker.
 2. **Gedragspatronen**: Het proces waarbij het systeem het gedrag van de gebruiker herkent en daarop reageert.
-3. **Modulaire Interactie**: Elke module binnen **hexFUTure** wordt geactiveerd wanneer het juiste gedrag wordt gedetecteerd, waarbij resonantie en tijd een cruciale rol spelen.
+3. **Modulaire interactie**: Elke module binnen **hexFUTure** wordt geactiveerd wanneer het juiste gedrag wordt gedetecteerd, waarbij resonantie en tijd een cruciale rol spelen.
 
 ---
 
@@ -26,13 +26,13 @@ De architectuur van **hexFUTure** bestaat uit meerdere lagen die met elkaar inte
 
 ---
 
-## 3. Integratie van HexAI
+## 3. Integratie van hexAI
 
 Het **hexAI**-systeem vormt de technische kern van **hexFUTure**. Het gebruikt geavanceerde algoritmes om resonantie en tijdsfrequenties te berekenen, die vervolgens het gedrag van het systeem sturen. **hexAI** zorgt ervoor dat alle processen zich zelf-organiserend aanpassen, zonder externe input.
 
 ---
 
-## 4. Beveiliging en Privacy
+## 4. Beveiliging en privacy
 
 **hexFUTure** respecteert de privacy en veiligheid van de gebruiker. Alle gegevens die worden verzameld tijdens het gebruik van het systeem, worden anoniem verwerkt en beveiligd opgeslagen, conform de laatste privacyrichtlijnen.
 
@@ -41,4 +41,4 @@ Het **hexAI**-systeem vormt de technische kern van **hexFUTure**. Het gebruikt g
 ## 🔏 STRUCTUUR-VERIFICATIE
 
 **SHA256-hash van dit document tot en met de laatste --- hieronder:**  
----c0f88b615edfce1bbc962ae8d8a1f253dfeee45af1274f29de36d9ac89bc8260
+---2a201ffbbb06750e1219ea5fb3a479e45f247505eb82f2a475dee729f81c7aaa
