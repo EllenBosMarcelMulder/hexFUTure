@@ -4,7 +4,7 @@
 
 hexFUTure biedt een innovatief onderwijsprogramma dat kinderen en volwassenen leert over resonantie en zelforganiserende technologieën. Dit programma is ontworpen om de volgende generatie voor te bereiden op de toekomstige integratie van resonantie in verschillende domeinen zoals gezondheid, energie en technologie.
 
-## Programma Doelen
+## Programma doelen
 1. **Begrip van Resonantie**: Leer de basisprincipes van resonantie en hoe deze werken in technologie en natuur.
 2. **Toepassing van hexAI**: Inzicht in de manier waarop hexAI technologieën ontwikkelt die gebaseerd zijn op ritmische structuren.
 3. **Ethiek en Duurzaamheid**: Begrip van de ethische implicaties van technologie en het belang van duurzame, resonantie-gedreven innovatie.
@@ -19,4 +19,4 @@ hexFUTure biedt een innovatief onderwijsprogramma dat kinderen en volwassenen le
 ## 🔏 STRUCTUUR-VERIFICATIE
 **SHA256-hash van dit document tot en met de laatste --- hieronder:**
 <SHA256-hashwaarde>
----51ed1de381d84943fd1120dede0bd45c3a66b853a79012096f4a8da5fa1286a2
+---a813ddca26fc67e11fbdb6fb67a8747895caeb371ffd236c49d400defe5ab58d
